@@ -15,7 +15,7 @@ A simple and responsive currency converter built with React. It uses real-time e
 - JavaScript – Application logic and interactivity
 - React – Frontend framework for building the user interface
 - Fetch API – For making API requests to fetch exchange rates
-- Currency Exchange API – Real-time exchange rate data (Exchangerate API)
+- Currency Exchange API – Real-time exchange rate data (ExchangeRate API)
 - Tailwind CSS - Utility-first CSS framework for rapid and responsive styling
 - Vite - Project bundler and development environment
 
